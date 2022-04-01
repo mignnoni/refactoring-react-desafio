@@ -21,8 +21,24 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://panels-images.twitch.tv/panel-181077473-image-0f5614d8-a793-4c3b-9a63-03c0792c71a9",
+      "name": "Moda twitch",
+      "price": "15.50",
+      "description": "teaste",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://panels-images.twitch.tv/panel-181077473-image-fb4c5594-8723-432d-bfef-858c888a48f9",
+      "name": "Ninja twitch",
+      "price": "12",
+      "description": "gau",
+      "available": true,
+      "id": 5
     }
   ]
 }
